@@ -191,7 +191,8 @@ img {
 .button svg {
 	height: 18px;
 	max-width: 21px;
-	margin-right: 5px;
+  margin-right: 5px;
+  fill: #353740 !important;
 }
 .mask {
 	overflow: hidden;
